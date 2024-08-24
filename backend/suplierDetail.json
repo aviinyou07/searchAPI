@@ -1,0 +1,83 @@
+[
+    {
+      "supplier_id": "S001",
+      "company_name": "ABC Moulding Co.",
+      "website": "http://abc-moulding.com",
+      "location": "New York",
+      "nature_of_business": "small_scale",
+      "manufacturing_processes": ["moulding"]
+    },
+    {
+      "supplier_id": "S002",
+      "company_name": "XYZ 3D Printing",
+      "website": "http://xyz-3dprinting.com",
+      "location": "San Francisco",
+      "nature_of_business": "medium_scale",
+      "manufacturing_processes": ["3d_printing"]
+    },
+    {
+      "supplier_id": "S003",
+      "company_name": "Casting Pros",
+      "website": "http://casting-pros.com",
+      "location": "Chicago",
+      "nature_of_business": "large_scale",
+      "manufacturing_processes": ["casting"]
+    },
+    {
+      "supplier_id": "S004",
+      "company_name": "Coating Experts",
+      "website": "http://coating-experts.com",
+      "location": "Los Angeles",
+      "nature_of_business": "small_scale",
+      "manufacturing_processes": ["coating"]
+    },
+    {
+      "supplier_id": "S005",
+      "company_name": "Moulding Masters",
+      "website": "http://moulding-masters.com",
+      "location": "Houston",
+      "nature_of_business": "medium_scale",
+      "manufacturing_processes": ["moulding", "casting"]
+    },
+    {
+      "supplier_id": "S006",
+      "company_name": "3D Innovators",
+      "website": "http://3d-innovators.com",
+      "location": "Philadelphia",
+      "nature_of_business": "large_scale",
+      "manufacturing_processes": ["3d_printing", "moulding"]
+    },
+    {
+      "supplier_id": "S007",
+      "company_name": "Rapid Casting",
+      "website": "http://rapid-casting.com",
+      "location": "San Antonio",
+      "nature_of_business": "small_scale",
+      "manufacturing_processes": ["casting", "coating"]
+    },
+    {
+      "supplier_id": "S008",
+      "company_name": "Advanced Coating",
+      "website": "http://advanced-coating.com",
+      "location": "San Diego",
+      "nature_of_business": "medium_scale",
+      "manufacturing_processes": ["coating"]
+    },
+    {
+      "supplier_id": "S009",
+      "company_name": "Complete Moulding",
+      "website": "http://complete-moulding.com",
+      "location": "Dallas",
+      "nature_of_business": "large_scale",
+      "manufacturing_processes": ["moulding", "3d_printing"]
+    },
+    {
+      "supplier_id": "S010",
+      "company_name": "Precision 3D",
+      "website": "http://precision-3d.com",
+      "location": "San Jose",
+      "nature_of_business": "medium_scale",
+      "manufacturing_processes": ["3d_printing", "casting"]
+    }
+  ]
+  
